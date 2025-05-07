@@ -1,2 +1,1 @@
-# Destination_C-17
-Destination_C++17
+This directory will contain the C++17 codes following the migration from C++98.
